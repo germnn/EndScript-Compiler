@@ -1,4 +1,3 @@
-package Proyecto;
 
 public class ScannerL {
     private String entrada, txtActual;   

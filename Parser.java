@@ -1,4 +1,3 @@
-package Proyecto;
 
 public class Parser {
     private ScannerL scanner;   

@@ -1,4 +1,3 @@
-package Proyecto;
 
 public class AnalizadorSemantico {
     private TablaSimbolos tabla;

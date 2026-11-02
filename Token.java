@@ -1,4 +1,3 @@
-package Proyecto;
 
 public class Token {
     public static final int INICIO = 1, FIN = 2, INT = 3, BOOLEAN = 4;

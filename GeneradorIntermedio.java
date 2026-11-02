@@ -1,4 +1,3 @@
-package Proyecto;
 
 import java.util.Map;
 

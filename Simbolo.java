@@ -1,4 +1,3 @@
-package Proyecto;
 
 public class Simbolo {
     private String nombre;
