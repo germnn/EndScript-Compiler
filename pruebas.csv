@@ -1,0 +1,15 @@
+INICIO
+    int cont;
+    boolean bandera;
+    cont = 0;
+    bandera = true;
+    while bandera do
+        cont = (cont @ 1);
+        println cont;
+        if (cont == 5) then
+            bandera = false;
+        else
+            bandera = true;
+        endif;
+    endwhile;
+FIN
